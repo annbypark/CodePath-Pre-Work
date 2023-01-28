@@ -8,7 +8,7 @@
 
 `TODO://` 
 
-<img src="https://i.imgur.com/Jo87AX0.gif" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br>
+<img src="https://i.imgur.com/Jo87AX0.gif" width=200><br>
 
 `TODO://` 
 
