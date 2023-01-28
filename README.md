@@ -2,15 +2,11 @@
 
 ### App Description
 
-`TODO://` Creates a brief introduction!
+Creates a brief introduction!
 
 ### App Walk-though
 
-`TODO://` 
-
 <img src="https://i.imgur.com/Jo87AX0.gif" width=200><br>
-
-`TODO://` 
 
 ### Required Features
 
